@@ -1,6 +1,7 @@
 ## PathPlanning_AI2Assignment2
 
 *Language*: PDDL
+
 *Planning engine*: [popf3-clp](https://github.com/popftif/popf-tif)
 
 ## Installation
