@@ -1,4 +1,4 @@
-![Screen solution AIRO2](https://github.com/ClousTom/PathPlanning_AI2Assignment2/assets/117213899/c5cb242c-7e07-43fc-ba68-293d317494dc)# PathPlanning_AI2Assignment2
+## PathPlanning_AI2Assignment2
 
 *Language*: PDDL
 *Planning engine*: [popf3-clp](https://github.com/popftif/popf-tif)
