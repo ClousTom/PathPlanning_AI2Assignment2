@@ -1,4 +1,4 @@
-# PathPlanning_AI2Assignment2
+![Screen solution AIRO2](https://github.com/ClousTom/PathPlanning_AI2Assignment2/assets/117213899/c5cb242c-7e07-43fc-ba68-293d317494dc)# PathPlanning_AI2Assignment2
 
 *Language*: PDDL
 *Planning engine*: [popf3-clp](https://github.com/popftif/popf-tif)
@@ -25,3 +25,7 @@ You may have to add execution privileges to the following files:
 ```sh
 sudo chmod +x popf3-clp
 ```
+
+## Solution
+
+![Screen solution AIRO2](https://github.com/ClousTom/PathPlanning_AI2Assignment2/assets/117213899/9ef86868-28de-48a7-a505-9a11ae6230b6)
